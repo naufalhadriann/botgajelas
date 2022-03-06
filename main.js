@@ -5,7 +5,7 @@ const msgerChat = get(".msger-chat");
 const BOT_IMG = "bot.png";
 const PERSON_IMG = "user.png";
 const BOT_NAME = "BOT";
-const PERSON_NAME = "kk nopal ini";
+const PERSON_NAME = "Seseorang";
 const prompts = [
   ["Aku jomblo ga?", "hai", "halo", "selamat pagi", "selamat siang"],
   ["apa kabar", "bagaimana hidup", "apa kabar"],
@@ -83,7 +83,14 @@ const alternative = [
   "Gatau males mau beli trekk ;[",
   "Kamu GEJELAS",
   "Yaudah sanaa pergi dari aku",
-  "PERGI AJA DARI AKU SANAA HUSHH"
+  "PERGI AJA DARI AKU SANAA HUSHH",
+  "Nonton yuk?",
+  "aku suka seseorang tau",
+  "Jangan pergi dari aku",
+  "Kamu buaya banget",
+  "kamu mah ga gudluking",
+  "baguss banget tauuu",
+  "Udh makan belum"
   ]
 const robot = ["How do you do, fellow human", "I am not a bot"];
 msgerForm.addEventListener("submit", event => {
