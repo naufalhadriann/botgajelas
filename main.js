@@ -7,10 +7,10 @@ const PERSON_IMG = "user.png";
 const BOT_NAME = "BOT";
 const PERSON_NAME = "Seseorang";
 const prompts = [
-  ["Aku jomblo ga?", "hai", "halo", "selamat pagi", "selamat siang"],
+  ["hi", "hai", "halo", "selamat pagi", "selamat siang"],
   ["apa kabar", "bagaimana hidup", "apa kabar"],
-  ["Kamu tolol", "apa yang terjadi", "ada apa"],
-  ["Kok gitu ?"],
+  ["Kamu lucuu", "apa yang terjadi", "ada apa"],
+  ["Kok gitu?"],
   ["Yaudah deh love youu <3", "apakah kamu manusia", "apakah kamu bot", "apakah kamu manusia atau bot"],
   ["siapa yang menciptakanmu", "siapa yang membuatmu"],
   [
@@ -44,7 +44,8 @@ const replies = [
     "aku si gaaa;v",
     "Udah mau tidur",
     "Bisakah kamu menebak?",
-    "Aku tidak tahu sebenarnya"
+    "Aku tidak tahu sebenarnya",
+    "Kamu jangan kesal ya hehe"
   ],
   ["Ygpp"],
   ["Saya hanya bot", "Saya bot. Apa kamu?"],
