@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Baloo+2&display=swap");
 :root {
-  --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  --body-bg: linear-gradient(135deg, #282a2d 0%, #343435 100%);
   --msger-bg: #fff;
   --left-msg-bg: linear-gradient(to right, #f895b9, #f44183);
   --right-msg-bg: #ececec;
