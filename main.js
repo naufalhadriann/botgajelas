@@ -69,6 +69,7 @@ const alternative = [
   "Mengapa?",
   "Mengapa? Seharusnya tidak!", 
   "Cobalah menonton TV",
+  "Kangennnnnn",
   "Baik, bagaimana kabarmu?",
   "Baiklah, bagaimana kabarmu?",
   "Fantastis, bagaimana kabarmu?",
