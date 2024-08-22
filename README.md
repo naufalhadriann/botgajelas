@@ -1,3 +1,3 @@
 # botgajelas
 
-url('https://chatbotgajelas.netlify.app/')
+('https://chatbotgajelas.netlify.app/')
